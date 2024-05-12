@@ -50,17 +50,19 @@ void actualizarPalabra(const string& palabraBuscada, const Palabra& nuevaPalabra
     if (archivoEntrada.is_open()) {
         string linea;
         while (getline(archivoEntrada, linea)) {
-            stringstream ss(linea);
-            string palabra, traduccion, funcionalidad;
-            getline(ss, palabra, ',');
-            getline(ss, traduccion, ',');
-            getline(ss, funcionalidad, ',');
-            if (palabra == palabraBuscada) {
-                palabras.push_back(nuevaPalabra);
-            } else {
-                palabras.push_back({palabra, traduccion, funcionalidad});
-            }
-        }
+		    stringstream ss(linea);
+		    string palabra, traduccion, funcionalidad;
+		    getline(ss, palabra, ',');
+		    getline(ss, traduccion, ',');
+		    getline(ss, funcionalidad, ',');
+		    if (palabra == palabraBuscada) {
+		        // Si encontramos la palabra buscada, agregamos la nueva palabra
+		        palabras.push_back(nuevaPalabra);
+		    } else {
+		        // Si no es la palabra buscada, agregamos la palabra original
+		        palabras.push_back({palabra, traduccion, funcionalidad});
+		    }
+		}
         archivoEntrada.close();
 
         ofstream archivoSalida("palabras.txt");
@@ -154,6 +156,8 @@ int main() {
                 cout << "Ingrese la palabra a actualizar: ";
                 cin >> palabraBuscada;
                 Palabra nuevaPalabra;
+                cout << "Ingrese la nueva palabra: ";
+                cin >> nuevaPalabra.palabra;
                 cout << "Ingrese la nueva traducción: ";
                 cin >> nuevaPalabra.traduccion;
                 cout << "Ingrese la nueva funcionalidad: ";
