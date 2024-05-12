@@ -1,0 +1,247 @@
+if,si,es una estructura de control que valida una condicion y nos permiten determinar que acciones tomar dada o no cierta condicion.
+char,caracter,Tipo de dato que representa un solo caracter.
+class,clase,Define una clase en C++.
+for,para,Ejecuta un bucle un numero especifico de veces.
+struct,estructura,Define una estructura de datos.
+switch,interruptor,Evalua una expresion y ejecuta un grupo de instrucciones dependiendo del valor de la expresion.
+else,de_otro_modo,Se ejecuta si la condicion de una estructura if no es verdadera.
+case,caso,Etiqueta de una estructura de control switch.
+false,falso,Valor booleano que representa falso.
+int,entero,Tipo de dato entero.
+namespace,espacio_de_nombres,Define un espacio de nombres.
+while,mientras,Ejecuta un bucle mientras se cumple una condicion.
+Function,Funcion,Bloque de codigo reutilizable que realiza una tarea especifica
+Object,Objeto,Instancia de una clase que tiene atributos y metodos asociados.
+Pointer,Puntero,Variable que almacena la direccion de memoria de otra variable.
+Array,Arreglo,Coleccion de elementos del mismo tipo, accesibles mediante un indice.
+String,Cadena,Secuencia de caracteres.
+Float,Flotante,Tipo de datos que representa numeros de punto flotante de precision simple.
+Character,Caracter,Tipo de datos que representa un solo caracter.
+Control,structure,Estructura de control
+Condition,Condicion,Expresion que se evalua como verdadera o falsa, controlando el flujo del programa.
+Declaration,Declaracion,Introduccion de un identificador con un tipo de dato, pero sin asignarle un valor.
+Return,Retorno,Palabra clave que indica el valor devuelto por una funcion.
+Constructor,Constructor,Metodo especial de una clase que se llama automaticamente al crear un objeto.
+Data,type,Tipo de datos
+Size,Cantidad,de memoria asignada a una variable o tipo de datos.
+Private,Privado,Modificador de acceso que restringe el acceso a miembros de una clase solo desde dentro de la misma.
+Public,Publico,Modificador de acceso que permite el acceso a miembros de una clase desde fuera de la misma.
+Protected,Protegido,Modificador de acceso que permite el acceso a miembros de una clase desde clases derivadas.
+if,si,es una estructura de control que valida una condicion y nos permiten determinar que acciones tomar dada o no cierta condicion.
+asm,asm,En lenguaje ensamblador, instruccion para ensamblador.
+auto,auto,Declara una variable local automatica.
+bool,booleano,Tipo de datos que puede contener uno de dos valores: true o false.
+break,interrumpir,Termina la ejecucion de la estructura de control en la que se encuentra.
+case,caso,Etiqueta de una estructura de control switch.
+catch,atrapar,Captura una excepcion.
+char,caracter,Tipo de dato que representa un solo caracter.
+class,clase,Define una clase en C++.
+const,constante,Declara una constante.
+const_cast,const_cast,Convierte un tipo de dato a otro const.
+continue,continuar,Salta a la siguiente iteracion del bucle.
+default,por_defecto,Define el caso por defecto en una estructura de control switch.
+delete,eliminar,Libera la memoria asignada dinamicamente.
+do,hacer,Ejecuta un bloque de codigo al menos una vez y luego se repite mientras se cumple una condicion.
+double,doble,Tipo de dato de punto flotante de doble precision.
+dynamic_cast,dynamic_cast,Convierte un tipo de dato a otro tipo de dato de forma dinamica.
+else,de_otro_modo,Se ejecuta si la condicion de una estructura if no es verdadera.
+enum,enumeracion,Define un tipo de dato que consta de un conjunto de constantes con nombre.
+explicit,explicito,Indica que un constructor no puede ser utilizado para conversiones implicitas.
+extern,externo,Declara una variable o funcion que se definira en otro lugar.
+false,falso,Valor booleano que representa falso.
+float,flotante,Tipo de dato de punto flotante de precision simple.
+for,para,Ejecuta un bucle un numero especifico de veces.
+friend,amigo,Declara una funcion o clase amiga.
+goto,goto,Salta a una etiqueta especifica.
+inline,en_linea,Indica que la funcion debe ser expandida en linea por el compilador.
+int,entero,Tipo de dato entero.
+long,largo,Tipo de dato entero largo.
+mutable,mutable,Permite que un miembro de una clase constante se modifique.
+namespace,espacio_de_nombres,Define un espacio de nombres.
+new,nuevo,Asigna memoria dinamicamente.
+operator,operador,Sobrecarga de operadores.
+private,privado,Especifica que los miembros de una clase son privados y no pueden ser accedidos fuera de la clase.
+protected,protegido,Especifica que los miembros de una clase son protegidos y pueden ser accedidos por clases derivadas.
+public,publico,Especifica que los miembros de una clase son publicos y pueden ser accedidos desde cualquier lugar.
+register,registro,Declara una variable que se almacenara en un registro de CPU.
+reinterpret_cast,reinterpret_cast,Convierte un tipo de dato a otro tipo de dato.
+return,retornar,Devuelve un valor de una funcion.
+short,corto,Tipo de dato entero corto.
+signed,firmado,Indica que un tipo de dato puede contener valores negativos.
+sizeof,tamano,Devuelve el tamano en bytes de un tipo de dato o una variable.
+static,estatico,Declara una variable o funcion que existe durante toda la vida del programa.
+static_cast,static_cast,Convierte un tipo de dato a otro tipo de dato de forma estatica.
+struct,estructura,Define una estructura de datos.
+switch,interruptor,Evalua una expresion y ejecuta un grupo de instrucciones dependiendo del valor de la expresion.
+template,plantilla,Define una plantilla para la creacion de clases o funciones genericas.
+this,este,Puntero implicito que apunta al objeto actual.
+throw,lanzar,Lanza una excepcion.
+true,verdadero,Valor booleano que representa verdadero.
+try,intentar,Define un bloque de codigo en el que pueden ocurrir excepciones.
+typedef,typedef,Crea un alias para un tipo de dato existente.
+typeid,typeid,Devuelve un objeto de tipo type_info que describe el tipo de un objeto.
+typename,typename,Indica que un nombre se refiere a un tipo.
+union,union,Define una estructura de datos que puede almacenar diferentes tipos de datos en el mismo espacio de memoria.
+unsigned,sin_signo,Tipo de dato entero sin signo.
+using,usar,Declara un alias para un espacio de nombres o un tipo de dato.
+virtual,virtual,Indica que una funcion puede ser sobrescrita en una clase derivada.
+void,vacio,Indica que una funcion no devuelve un valor.
+volatile,volatil,Indica que una variable puede ser modificada en cualquier momento, incluso por un hilo de ejecucion diferente.
+while,mientras,Ejecuta un bucle mientras se cumple una condicion.
+Variable, Variable, Almacena y representa un valor en la memoria durante la ejecucion del programa.
+Function, Funcion, Bloque de codigo reutilizable que realiza una tarea especifica.
+Class, Clase, Plantilla para crear objetos que encapsulan datos y funciones.
+Object, Objeto, Instancia de una clase que tiene atributos y metodos asociados.
+Pointer, Puntero, Variable que almacena la direccion de memoria de otra variable.
+Array, Arreglo, Coleccion de elementos del mismo tipo, accesibles mediante un indice.
+String, Cadena, Secuencia de caracteres.
+Integer, Entero, Tipo de datos que representa numeros enteros.
+Float, Flotante, Tipo de datos que representa numeros de punto flotante de precision simple.
+Double, Doble, Tipo de datos que representa numeros de punto flotante de precision doble.
+Character, Caracter, Tipo de datos que representa un solo caracter.
+Control structure, Estructura de control, Bloques de codigo que controlan el flujo de ejecucion del programa.
+Loop, Ciclo/Bucle, Estructura que repite un bloque de codigo hasta que se cumple una condicion.
+Condition, Condicion, Expresion que se evalua como verdadera o falsa, controlando el flujo del programa.
+Declaration, Declaracion, Introduccion de un identificador con un tipo de dato, pero sin asignarle un valor.
+Definition, Definicion, Asignacion de un valor inicial a una variable o constante.
+Parameter, Parametro, Variable utilizada en una funcion para recibir argumentos.
+Return, Retorno, Palabra clave que indica el valor devuelto por una funcion.
+Constructor, Constructor, Metodo especial de una clase que se llama automaticamente al crear un objeto.
+Destructor, Destructor, Metodo especial de una clase que se llama automaticamente cuando se destruye un objeto.
+Inheritance, Herencia, Mecanismo que permite que una clase herede atributos y metodos de otra clase.
+Polymorphism, Polimorfismo, Capacidad de una funcion o metodo para comportarse de diferentes maneras segun el tipo de datos con el que se llama.
+Encapsulation, Encapsulacion, Ocultamiento de los detalles de implementacion de una clase, protegiendo los datos dentro de la clase y restringiendo el acceso desde fuera de ella.
+Operator overloading, Sobrecarga de operadores, Definicion de multiples versiones de un operador para que pueda actuar en diferentes tipos de datos.
+Function overloading, Sobrecarga de funciones, Definicion de multiples funciones con el mismo nombre pero diferentes parametros.
+Reference, Referencia, Variable que actua como un alias para otra variable.
+Data type, Tipo de datos, Especifica el tipo de datos que puede contener una variable.
+Template, Plantilla, Estructura generica que permite definir funciones o clases con tipos de datos genericos.
+Exception, Excepcion, Objeto que representa un error durante la ejecucion de un programa.
+Memory management, Manejo de memoria, Gestion de la asignacion y liberacion de memoria durante la ejecucion del programa.
+cout,caracter de salida,Es un objeto de flujo de salida estandar en C++ que se utiliza para imprimir datos en la consola.
+cin,caracter de entrada,Es un objeto de flujo de entrada estandar en C++ que se utiliza para recibir datos desde el usuario a traves de la consola.
+#include,incluir,se utiliza en C++ para incluir archivos de encabezado
+Cout,caracter de salida,Es un objeto de flujo de salida estandar en C++ que se utiliza para imprimir datos en la consola.
+Cin,caracter de entrada,Es un objeto de flujo de entrada estandar en C++ que se utiliza para recibir datos desde el usuario a traves de la consola.
+main,principal,es la funcion principal en un programa
+Cout<<,caracter de salida,Es un objeto de flujo de salida estandar en C++ que se utiliza para imprimir datos en la consola.
+Cin>>,caracter de entrada,Es un objeto de flujo de entrada estandar en C++ que se utiliza para recibir datos desde el usuario a traves de la consola.
+cout<<,caracter de salida,Es un objeto de flujo de salida estandar en C++ que se utiliza para imprimir datos en la consola.
+cin>>,caracter de entrada,Es un objeto de flujo de entrada estandar en C++ que se utiliza para recibir datos desde el usuario a traves de la consola.
+If, Si, Es, Una, Estructura, De, Control, Que, Valida, Una, Condicion, Y, Nos, Permiten, Determinar, Que, Acciones, Tomar, Dada, O, No, Cierta, Condicion
+Char, Caracter, Tipo, De, Dato, Que, Representa, Un, Solo, Caracter
+Class, Clase, Define, Una, Clase, En, C++
+For, Para, Ejecuta, Un, Bucle, Un, Numero, Especifico, De, Veces
+Struct, Estructura, Define, Una, Estructura, De, Datos
+Switch, Interruptor, Evalua, Una, Expresion, Y, Ejecuta, Un, Grupo, De, Instrucciones, Dependiendo, Del, Valor, De, La, Expresion
+Else, De_otro_modo, Se, Ejecuta, Si, La, Condicion, De, Una, Estructura, If, No, Es, Verdadera
+Case, Caso, Etiqueta, De, Una, Estructura, De, Control, Switch
+False, Falso, Valor, Booleano, Que, Representa, Falso
+Int, Entero, Tipo, De, Dato, Entero
+Namespace, Espacio_de_nombres, Define, Un, Espacio, De, Nombres
+While, Mientras, Ejecuta, Un, Bucle, Mientras, Se, Cumple, Una, Condicion
+Function, Funcion, Bloque, De, Codigo, Reutilizable, Que, Realiza, Una, Tarea, Especifica
+Object, Objeto, Instancia, De, Una, Clase, Que, Tiene, Atributos, Y, Metodos, Asociados
+Pointer, Puntero, Variable, Que, Almacena, La, Direccion, De, Memoria, De, Otra, Variable
+Array, Arreglo, Coleccion, De, Elementos, Del, Mismo, Tipo, Accesibles, Mediante, Un, Indice
+String, Cadena, Secuencia, De, Caracteres
+Float, Flotante, Tipo, De, Datos, Que, Representa, Numeros, De, Punto, Flotante, De, Precision, Simple
+Character, Caracter, Tipo, De, Datos, Que, Representa, Un, Solo, Caracter
+Control, Structure, Estructura, De, Control
+Condition, Condicion, Expresion, Que, Se, Evalua, Como, Verdadera, O, Falsa, Controlando, El, Flujo, Del, Programa
+Declaration, Declaracion, Introduccion, De, Un, Identificador, Con, Un, Tipo, De, Dato, Pero, Sin, Asignarle, Un, Valor
+Return, Retorno, Palabra, Clave, Que, Indica, El, Valor, Devuelto, Por, Una, Funcion
+Constructor, Constructor, Metodo, Especial, De, Una, Clase, Que, Se, Llama, Automaticamente, Al, Crear, Un, Objeto
+Data, Type, Tipo, De, Datos
+Size, Cantidad, De, Memoria, Asignada, A, Una, Variable, O, Tipo, De, Datos
+Private, Privado, Modificador, De, Acceso, Que, Restringe, El, Acceso, A, Miembros, De, Una, Clase, Solo, Desde, Dentro, De, La, Misma
+Public, Publico, Modificador, De, Acceso, Que, Permite, El, Acceso, A, Miembros, De, Una, Clase, Desde, Fuera, De, La, Misma
+if, si, es, una, estructura, de, control, que, valida, una, condicion, y, nos, permiten, determinar, que, acciones, tomar, dada, o, no, cierta, condicion
+char, caracter, tipo, de, dato, que, representa, un, solo, caracter
+class, clase, define, una, clase, en, c++
+for, para, ejecuta, un, bucle, un, numero, especifico, de, veces
+struct, estructura, define, una, estructura, de, datos
+switch, interruptor, evalua, una, expresion, y, ejecuta, un, grupo, de, instrucciones, dependiendo, del, valor, de, la, expresion
+else, de_otro_modo, se, ejecuta, si, la, condicion, de, una, estructura, if, no, es, verdadera
+case, caso, etiqueta, de, una, estructura, de, control, switch
+false, falso, valor, booleano, que, representa, falso
+int, entero, tipo, de, dato, entero
+namespace, espacio_de_nombres, define, un, espacio, de, nombres
+while, mientras, ejecuta, un, bucle, mientras, se, cumple, una, condicion
+function, funcion, bloque, de, codigo, reutilizable, que, realiza, una, tarea, especifica
+object, objeto, instancia, de, una, clase, que, tiene, atributos, y, metodos, asociados
+pointer, puntero, variable, que, almacena, la, direccion, de, memoria, de, otra, variable
+array, arreglo, coleccion, de, elementos, del, mismo, tipo, accesibles, mediante, un, indice
+string, cadena, secuencia, de, caracteres
+float, flotante, tipo, de, datos, que, representa, numeros, de, punto, flotante, de, precision, simple
+character, caracter, tipo, de, datos, que, representa, un, solo, caracter
+control, structure, estructura, de, control
+condition, condicion, expresion, que, se, evalua, como, verdadera, o, falsa, controlando, el, flujo, del, programa
+declaration, declaracion, introduccion, de, un, identificador, con, un, tipo, de, dato, pero, sin, asignarle, un, valor
+return, retorno, palabra, clave, que, indica, el, valor, devuelto, por, una, funcion
+constructor, constructor, metodo, especial, de, una, clase, que, se, llama, automaticamente, al, crear, un, objeto
+data, type, tipo, de, datos
+size, cantidad, de, memoria, asignada, a, una, variable, o, tipo, de, datos
+private, privado, modificador, de, acceso, que, restringe, el, acceso, a, miembros, de, una, clase, solo, desde, dentro, de, la, misma
+public, publico, modificador, de, acceso, que, permite, el, acceso, a, miembros, de, una, clase, desde, fuera, de, la, misma
+asm, como se escriben (ensamblador), instruccion para insertar codigo ensamblador en un programa en C++
+auto, automatico, deduccion automatica del tipo de datos de una variable en C++11
+bool, booleano, tipo de datos que representa verdadero o falso
+break, romper, salta fuera de una estructura de control como un bucle o un switch
+case, caso, etiqueta en una declaracion switch que indica que codigo ejecutar en funcion del valor de una variable
+catch, capturar, manejar una excepcion lanzada en un bloque try en un programa de C++
+char, caracter, tipo de datos que representa un solo caracter ASCII
+class, clase, estructura que encapsula datos y funciones en programacion orientada a objetos
+const, constante, califica un objeto cuyo valor no puede cambiar
+const_cast, conversion constante, permite eliminar la constancia de un objeto en C++
+continue, continuar, salta al siguiente ciclo de un bucle en C++,
+default, por defecto, caso que se ejecuta cuando ningun otro caso de una declaracion switch coincide en C++
+delete, borrar, operador utilizado para liberar la memoria asignada dinamicamente
+do, hacer, inicia un bucle do-while en C++
+double, doble, tipo de datos que representa numeros de coma flotante de doble precision
+dynamic_cast, conversion dinamica, permite convertir punteros o referencias de clases base a clases derivadas en tiempo de ejecucion
+else, si no, bloque de codigo que se ejecuta si la condicion de un if no es verdadera
+enum, enumeracion, define un conjunto de constantes con nombre
+explicit, explicito, califica un constructor para evitar conversiones implicitas en C++
+extern, externo, declara una variable o funcion definida en otro lugar en el programa
+false, falso, valor booleano que representa "falso"
+float, flotante, tipo de datos que representa numeros de coma flotante de precision simple
+for, para, bucle de repeticion en C++ que itera un numero especifico de veces
+friend, amigo, permite a una funcion o clase acceder a miembros privados de otra clase
+goto, ir a, instruccion que permite saltar a una etiqueta especificada en un programa C++
+if, si, estructura de control condicional que ejecuta un bloque de codigo si una condicion es verdadera
+inline, en linea, sugiere al compilador que coloque el codigo de una funcion en linea en lugar de llamar a la funcion
+int, entero, tipo de datos que representa numeros enteros
+long, largo, tipo de datos entero con mayor rango que int
+mutable, mutable, califica un miembro de clase que puede ser modificado incluso en objetos constantes
+namespace, espacio de nombres, organiza el codigo en contextos separados para evitar conflictos de nombres
+new, nuevo, operador utilizado para asignar memoria dinamicamente
+operator, operador, funcion que define la accion de un operador en objetos personalizados en C++
+private, privado, especificador de acceso que restringe el acceso a los miembros de una clase
+protected, protegido, especificador de acceso que permite el acceso a los miembros de una clase dentro de la clase y sus clases derivadas
+public, publico, especificador de acceso que permite el acceso a los miembros de una clase desde cualquier lugar
+register, registro, sugiere al compilador almacenar una variable en un registro de la CPU para un acceso mas rapido
+reinterpret_cast, conversion reinterpretada, permite la conversion de un tipo de puntero a otro en C++
+return, retornar, devuelve un valor de una funcion en C++
+short, corto, tipo de datos entero con menor rango que int
+signed, firmado, califica un tipo de datos entero como con o sin signo
+sizeof, tamano de, operador que devuelve el tamano en bytes de un tipo de datos o una variable
+static, estatico, califica variables y funciones para limitar su alcance al archivo actual en C++, y para mantener su valor entre llamadas a la funcion
+static_cast, conversion estatica, permite realizar conversiones entre tipos de manera segura en C++
+struct, estructura, define una coleccion de datos llamados miembros en C++,
+switch, cambiar, estructura de control que permite seleccionar entre multiples opciones basadas en el valor de una expresion
+template, plantilla, permite definir clases y funciones genericas en C++
+this, este, puntero que apunta al objeto actual en C++
+throw, lanzar, utiliza para lanzar una excepcion en un programa de C++
+true, verdadero, valor booleano que representa "verdadero"
+try, intentar, bloque de codigo donde se manejan excepciones en un programa de C++
+typedef, definir tipo, define un alias para un tipo de datos existente en C++
+typeid, tipo de identificacion, devuelve informacion sobre un tipo de datos en tiempo de ejecucion
+typename, nombre de tipo, indica que un nombre es un tipo en plantillas de C++
+union, union, estructura de datos que permite almacenar diferentes tipos de datos en la misma ubicacion de memoria
+unsigned, sin signo, califica un tipo de datos entero como sin signo
+using, usar, declara un alias de namespace o importa un miembro de un namespace
+virtual, virtual, califica una funcion que puede ser sobrescrita en clases derivadas en C++
+void, vacio, tipo de datos que representa la falta de tipo en C++
+volatile, volatil, indica que una variable puede ser modificada externamente y no debe ser optimizada por el compilador
+while, mientras, bucle de repeticion que ejecuta un bloque de codigo mientras una condicion sea verdadera
