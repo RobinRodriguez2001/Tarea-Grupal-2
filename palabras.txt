@@ -184,3 +184,64 @@ data, type, tipo, de, datos
 size, cantidad, de, memoria, asignada, a, una, variable, o, tipo, de, datos
 private, privado, modificador, de, acceso, que, restringe, el, acceso, a, miembros, de, una, clase, solo, desde, dentro, de, la, misma
 public, publico, modificador, de, acceso, que, permite, el, acceso, a, miembros, de, una, clase, desde, fuera, de, la, misma
+asm, como se escriben (ensamblador), instruccion para insertar codigo ensamblador en un programa en C++
+auto, automatico, deduccion automatica del tipo de datos de una variable en C++11
+bool, booleano, tipo de datos que representa verdadero o falso
+break, romper, salta fuera de una estructura de control como un bucle o un switch
+case, caso, etiqueta en una declaracion switch que indica que codigo ejecutar en funcion del valor de una variable
+catch, capturar, manejar una excepcion lanzada en un bloque try en un programa de C++
+char, caracter, tipo de datos que representa un solo caracter ASCII
+class, clase, estructura que encapsula datos y funciones en programacion orientada a objetos
+const, constante, califica un objeto cuyo valor no puede cambiar
+const_cast, conversion constante, permite eliminar la constancia de un objeto en C++
+continue, continuar, salta al siguiente ciclo de un bucle en C++,
+default, por defecto, caso que se ejecuta cuando ningun otro caso de una declaracion switch coincide en C++
+delete, borrar, operador utilizado para liberar la memoria asignada dinamicamente
+do, hacer, inicia un bucle do-while en C++
+double, doble, tipo de datos que representa numeros de coma flotante de doble precision
+dynamic_cast, conversion dinamica, permite convertir punteros o referencias de clases base a clases derivadas en tiempo de ejecucion
+else, si no, bloque de codigo que se ejecuta si la condicion de un if no es verdadera
+enum, enumeracion, define un conjunto de constantes con nombre
+explicit, explicito, califica un constructor para evitar conversiones implicitas en C++
+extern, externo, declara una variable o funcion definida en otro lugar en el programa
+false, falso, valor booleano que representa "falso"
+float, flotante, tipo de datos que representa numeros de coma flotante de precision simple
+for, para, bucle de repeticion en C++ que itera un numero especifico de veces
+friend, amigo, permite a una funcion o clase acceder a miembros privados de otra clase
+goto, ir a, instruccion que permite saltar a una etiqueta especificada en un programa C++
+if, si, estructura de control condicional que ejecuta un bloque de codigo si una condicion es verdadera
+inline, en linea, sugiere al compilador que coloque el codigo de una funcion en linea en lugar de llamar a la funcion
+int, entero, tipo de datos que representa numeros enteros
+long, largo, tipo de datos entero con mayor rango que int
+mutable, mutable, califica un miembro de clase que puede ser modificado incluso en objetos constantes
+namespace, espacio de nombres, organiza el codigo en contextos separados para evitar conflictos de nombres
+new, nuevo, operador utilizado para asignar memoria dinamicamente
+operator, operador, funcion que define la accion de un operador en objetos personalizados en C++
+private, privado, especificador de acceso que restringe el acceso a los miembros de una clase
+protected, protegido, especificador de acceso que permite el acceso a los miembros de una clase dentro de la clase y sus clases derivadas
+public, publico, especificador de acceso que permite el acceso a los miembros de una clase desde cualquier lugar
+register, registro, sugiere al compilador almacenar una variable en un registro de la CPU para un acceso mas rapido
+reinterpret_cast, conversion reinterpretada, permite la conversion de un tipo de puntero a otro en C++
+return, retornar, devuelve un valor de una funcion en C++
+short, corto, tipo de datos entero con menor rango que int
+signed, firmado, califica un tipo de datos entero como con o sin signo
+sizeof, tamano de, operador que devuelve el tamano en bytes de un tipo de datos o una variable
+static, estatico, califica variables y funciones para limitar su alcance al archivo actual en C++, y para mantener su valor entre llamadas a la funcion
+static_cast, conversion estatica, permite realizar conversiones entre tipos de manera segura en C++
+struct, estructura, define una coleccion de datos llamados miembros en C++,
+switch, cambiar, estructura de control que permite seleccionar entre multiples opciones basadas en el valor de una expresion
+template, plantilla, permite definir clases y funciones genericas en C++
+this, este, puntero que apunta al objeto actual en C++
+throw, lanzar, utiliza para lanzar una excepcion en un programa de C++
+true, verdadero, valor booleano que representa "verdadero"
+try, intentar, bloque de codigo donde se manejan excepciones en un programa de C++
+typedef, definir tipo, define un alias para un tipo de datos existente en C++
+typeid, tipo de identificacion, devuelve informacion sobre un tipo de datos en tiempo de ejecucion
+typename, nombre de tipo, indica que un nombre es un tipo en plantillas de C++
+union, union, estructura de datos que permite almacenar diferentes tipos de datos en la misma ubicacion de memoria
+unsigned, sin signo, califica un tipo de datos entero como sin signo
+using, usar, declara un alias de namespace o importa un miembro de un namespace
+virtual, virtual, califica una funcion que puede ser sobrescrita en clases derivadas en C++
+void, vacio, tipo de datos que representa la falta de tipo en C++
+volatile, volatil, indica que una variable puede ser modificada externamente y no debe ser optimizada por el compilador
+while, mientras, bucle de repeticion que ejecuta un bloque de codigo mientras una condicion sea verdadera
